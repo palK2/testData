@@ -1,0 +1,9 @@
+{
+	"name": "adfPallab",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "06779047-975b-4a9e-9a16-b344de8454e2",
+		"tenantId": "3e4f6c6b-ae25-47f4-8791-e54466c52306"
+	}
+}
